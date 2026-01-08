@@ -1,0 +1,14 @@
+/* Carriage Shake Module Styles */
+
+.scene-control[data-tool="carriage-shake"] {
+    color: #ff6b6b;
+}
+
+.scene-control[data-tool="carriage-shake"].active {
+    color: #51cf66;
+    background: rgba(81, 207, 102, 0.2);
+}
+
+.scene-control[data-tool="carriage-shake"]:hover {
+    color: #ffa94d;
+}
