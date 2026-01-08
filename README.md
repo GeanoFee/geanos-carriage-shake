@@ -17,7 +17,7 @@ A FoundryVTT module that adds a configurable screen shake effect to simulate a c
 4. Click "Start Ride" to begin the effect for all players on the scene.
 5. Click the button again to stop the effect.
 
-## Macro API
+## 🔧 Macro API
 
 You can control the module programmatically using the exposed API:
 
@@ -35,4 +35,5 @@ game.modules.get("geanos-carriage-shake").api.toggle();
 ## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-carriage-shake/releases/latest/download/module.json`
+
 
