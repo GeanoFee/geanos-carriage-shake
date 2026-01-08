@@ -2,14 +2,14 @@
 
 A FoundryVTT module that adds a configurable screen shake effect to simulate a carriage ride or other unstable conditions.
 
-## Features
+## 🌟 Features
 
 - **Scene-based Synchronization**: Uses scene flags to ensure all players see the same shake effect.
 - **Configurable Intensity**: Choose from various presets ranging from "Smooth Road" to "Offroad Chaos".
 - **GM Controls**: Easy access via a button in the Token Controls layer.
 - **Macro API**: Full control via macros for automation.
 
-## Usage
+## 🎮 Usage
 
 1. Switch to the **Token Controls** layer.
 2. Click the **Horse Icon** (Toggle Carriage Ride).
@@ -32,6 +32,7 @@ game.modules.get("geanos-carriage-shake").api.stop();
 game.modules.get("geanos-carriage-shake").api.toggle();
 ```
 
-## Installation
+## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-carriage-shake/releases/latest/download/module.json`
+
