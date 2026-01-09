@@ -1,5 +1,7 @@
 # Geano's Carriage Shake
 
+![Geano's Carriage Shake Showcase](https://github.com/GeanoFee/geanos-carriage-shake/blob/main/GCS.jpg?raw=true)
+
 A FoundryVTT module that adds a configurable screen shake effect to simulate a carriage ride or other unstable conditions.
 
 ## 🌟 Features
@@ -35,5 +37,6 @@ game.modules.get("geanos-carriage-shake").api.toggle();
 ## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-carriage-shake/releases/latest/download/module.json`
+
 
 
