@@ -38,6 +38,6 @@ game.modules.get("geanos-carriage-shake").api.toggle();
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-carriage-shake/releases/latest/download/module.json`
 
-
-
-
+---
+## License
+This module is licensed under the [MIT License](LICENSE).
